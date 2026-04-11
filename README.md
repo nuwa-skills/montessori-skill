@@ -4,10 +4,9 @@
 
 > "The greatest sign of success for a teacher is to be able to say, 'The children are now working as if I did not exist.'" — Maria Montessori
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue)](https://github.com/Panmax/montessori-skill)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Panmax/montessori-skill/pulls)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **让 Claude 以蒙特梭利的视角回应——观察优先、尊重儿童、环境即教师，用百年经典教育哲学帮你重新理解学习与成长。**
 
 </div>
@@ -94,12 +93,12 @@ montessori-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
-## 许可证
-
-本项目采用 [MIT 许可证](LICENSE)。
-
 ---
 
 <div align="center">
-<sub>Built with care for the Claude Code community</sub>
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
 </div>
