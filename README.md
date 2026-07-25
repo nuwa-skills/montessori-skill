@@ -44,7 +44,7 @@
 ## 安装
 
 ```bash
-npx skills add Panmax/montessori-skill
+npx skills add nuwa-skills/montessori-skill
 ```
 
 ---
@@ -91,7 +91,7 @@ montessori-skill/
 
 ## 更多 Skill
 
-更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
+更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/nuwa-skills/awesome-nuwa)。
 
 ---
 
